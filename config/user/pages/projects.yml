@@ -5,13 +5,13 @@ subtitle: 这里展示了我的一些个人项目和开源贡献
 template: projects
 
 categories:
-  - name: 个人项目
+  - name: 科研项目
     icon: fas fa-code
     sites:
-      - name: 个人导航站
+      - name: Steam Tools
         icon: fas fa-compass
-        description: 一个简洁美观的个人导航页面
-        url: "#"
+        description: Steam 解锁
+        url: "https://github.com/SteamAutoCracks/ManifestHub"
       - name: Todo List
         icon: fas fa-tasks
         description: 基于Vue3的待办事项管理器
@@ -20,7 +20,18 @@ categories:
         icon: fas fa-blog
         description: 使用Hexo搭建的技术博客
         url: "#"
-  - name: 开源贡献
+  - name: Docker
+    icon: fas fa-code-branch
+    sites:
+      - name: Project A
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#"
+      - name: Project B
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#" 
+  - name: Vercel
     icon: fas fa-code-branch
     sites:
       - name: Project A
