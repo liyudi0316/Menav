@@ -104,3 +104,10 @@ categories:
         url: https://carbon.now.sh
         icon: fas fa-code
         description: 代码图片生成器
+  - name: 分子对接
+    icon: fas fa-wrench
+    sites:
+      - name: ReverseDock
+        url: https://reversedock.biologie.uni-freiburg.de/
+        icon: fas fa-code-branch
+        description: 基于分子对接的反向找靶
