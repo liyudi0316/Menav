@@ -8,10 +8,10 @@ categories:
   - name: 常用网站
     icon: fas fa-star
     sites:
-      - name: Linux.do
-        url: https://linux.do/
+      - name: Puresys
+        url: https://www.puresys.net/
         icon: fab fa-linux
-        description: 新的理想型社区
+        description: 纯净系统 软件下载
       - name: Google
         url: https://www.google.com
         icon: fab fa-google
