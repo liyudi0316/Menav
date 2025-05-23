@@ -27,11 +27,7 @@ categories:
   - name: 学习笔记
     icon: fas fa-book
     sites:
-      - name: React Hooks
+      - name: 通路高亮标记基因
         icon: fab fa-react
-        description: React Hooks最佳实践
-        url: "#"
-      - name: Node.js实战
-        icon: fab fa-node-js
-        description: Node.js服务端开发笔记
-        url: "#" 
+        description: Kegg 通路
+        url: "https://mp.weixin.qq.com/s/GZ4mILvzM6LuaaNa7feAOg?scene=1"
