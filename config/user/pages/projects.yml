@@ -51,7 +51,7 @@ categories:
   - name: MCP
     icon: fas fa-code-branch
     sites:
-      - name: Project A
+      - name: MCP PPT
         icon: fab fa-github
-        description: 开源项目贡献
-        url: "https://github.com/rbetree/MarksVault"
+        description: MCP PPT
+        url: "https://github.com/ltc6539/mcp-ppt/blob/main/README_zh.md"
