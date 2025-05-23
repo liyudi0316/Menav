@@ -27,17 +27,20 @@ categories:
         icon: fas fa-blog
         description: 使用Hexo搭建的技术博客
         url: "https://github.com/EpinelPS/EpinelPS"
+  - name: 插件
+    icon: fas fa-code-branch
+    sites:
+      - name: 书签备份
+        icon: fab fa-github
+        description: 书签备份 Github
+        url: "https://github.com/rbetree/MarksVault"
   - name: Docker
     icon: fas fa-code-branch
     sites:
       - name: Project A
         icon: fab fa-github
         description: 开源项目贡献
-        url: "#"
-      - name: Project B
-        icon: fab fa-github
-        description: 开源项目贡献
-        url: "#" 
+        url: "https://github.com/rbetree/MarksVault"
   - name: Vercel
     icon: fas fa-code-branch
     sites:
@@ -45,7 +48,10 @@ categories:
         icon: fab fa-github
         description: 开源项目贡献
         url: "#"
-      - name: Project B
+  - name: MCP
+    icon: fas fa-code-branch
+    sites:
+      - name: Project A
         icon: fab fa-github
         description: 开源项目贡献
-        url: "#" 
+        url: "https://github.com/rbetree/MarksVault"
