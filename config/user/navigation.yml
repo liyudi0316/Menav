@@ -8,7 +8,7 @@
 - name: 文章
   icon: fas fa-book
   id: articles
-- name: 资料
+- name: 科研
   icon: fas fa-users
   id: friends
 - name: 书签
