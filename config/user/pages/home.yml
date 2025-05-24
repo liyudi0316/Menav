@@ -31,10 +31,10 @@ categories:
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
-      - name: 哔哩哔哩
-        url: https://www.bilibili.com
+      - name: soarXiv
+        url: https://soarxiv.org/
         icon: fas fa-play-circle
-        description: 视频学习平台
+        description: 畅游论文星空
       - name: 知乎
         url: https://www.zhihu.com
         icon: fas fa-question-circle
