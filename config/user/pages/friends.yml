@@ -12,14 +12,6 @@ categories:
         icon: fas fa-code
         description: 综述结构 写作
         url: "https://explorer.globe.engineer/"
-      - name: 小红的前端
-        icon: fas fa-paint-brush
-        description: 专注前端开发与设计
-        url: "#"
-      - name: 小张的后端
-        icon: fas fa-server
-        description: 分享后端开发经验
-        url: "#"
   - name: 技术社区
     icon: fas fa-laptop-code
     sites:
@@ -27,7 +19,3 @@ categories:
         icon: fab fa-github
         description: 开源代码托管平台
         url: https://github.com
-      - name: Stack Overflow
-        icon: fab fa-stack-overflow
-        description: 程序员问答社区
-        url: https://stackoverflow.com 
