@@ -12,23 +12,7 @@ categories:
         url: https://www.puresys.net/
         icon: fab fa-linux
         description: 纯净系统 软件下载
-      - name: Google
-        url: https://www.google.com
-        icon: fab fa-google
-        description: 全球最大的搜索引擎
-      - name: GitHub
-        url: https://www.github.com
-        icon: fab fa-github
-        description: 代码托管平台
-      - name: Stack Overflow
-        url: https://stackoverflow.com
-        icon: fab fa-stack-overflow
-        description: 程序员问答社区
-      - name: ChatGPT
-        url: https://chat.openai.com
-        icon: fas fa-robot
-        description: AI智能助手
-  - name: 学习资源
+  - name: 论文资源
     icon: fas fa-graduation-cap
     sites:
       - name: soarXiv
@@ -39,14 +23,6 @@ categories:
         url: https://osf.io/preprints/socarxiv
         icon: fas fa-question-circle
         description: 社会科学 OSF 预印
-      - name: 掘金
-        url: https://juejin.cn
-        icon: fas fa-book
-        description: 高质量技术社区
-      - name: LeetCode
-        url: https://leetcode.cn
-        icon: fas fa-code
-        description: 算法刷题平台
   - name: 开发工具
     icon: fas fa-tools
     sites:
