@@ -66,25 +66,17 @@ categories:
         url: https://www.docker.com
         icon: fab fa-docker
         description: 容器化平台
-  - name: 设计资源
+  - name: 网络代理
     icon: fas fa-palette
     sites:
-      - name: Figma
-        url: https://www.figma.com
+      - name: Nekoray
+        url: https://github.com/MatsuriDayo/nekoray
         icon: fab fa-figma
-        description: 在线设计工具
+        description: 梯子
       - name: Dribbble
         url: https://dribbble.com
         icon: fab fa-dribbble
         description: 设计师社区
-      - name: Behance
-        url: https://www.behance.net
-        icon: fab fa-behance
-        description: 创意设计平台
-      - name: IconFont
-        url: https://www.iconfont.cn
-        icon: fas fa-icons
-        description: 图标资源库
   - name: 在线工具
     icon: fas fa-wrench
     sites:
