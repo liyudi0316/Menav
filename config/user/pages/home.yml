@@ -56,10 +56,10 @@ categories:
   - name: 在线工具
     icon: fas fa-wrench
     sites:
-      - name: JSON Editor
-        url: https://jsoneditoronline.org
+      - name: Seeing-Theory
+        url: https://seeing-theory.brown.edu/
         icon: fas fa-code-branch
-        description: JSON在线编辑器
+        description: 可视化统计
       - name: Can I Use
         url: https://caniuse.com
         icon: fas fa-browser
