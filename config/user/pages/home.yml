@@ -34,14 +34,6 @@ categories:
         url: https://www.postman.com
         icon: fas fa-paper-plane
         description: API调试工具
-      - name: Git
-        url: https://git-scm.com
-        icon: fab fa-git-alt
-        description: 版本控制工具
-      - name: Docker
-        url: https://www.docker.com
-        icon: fab fa-docker
-        description: 容器化平台
   - name: 网络代理
     icon: fas fa-palette
     sites:
@@ -49,10 +41,6 @@ categories:
         url: https://github.com/MatsuriDayo/nekoray
         icon: fab fa-figma
         description: 梯子
-      - name: Dribbble
-        url: https://dribbble.com
-        icon: fab fa-dribbble
-        description: 设计师社区
   - name: 在线工具
     icon: fas fa-wrench
     sites:
