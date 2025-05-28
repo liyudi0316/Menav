@@ -20,14 +20,14 @@ categories:
         url: https://developer.mozilla.org/
         icon: fas fa-link
         description: "从书签导入: MDN Web Docs"
-  - name: 社交媒体
+  - name: 自建网站
     icon: fas fa-folder
     sites:
-      - name: Twitter
-        url: https://twitter.com/
+      - name: Calcium
+        url: https://calcium-eta.vercel.app/
         icon: fab fa-twitter
-        description: "从书签导入: Twitter"
-      - name: LinkedIn
-        url: https://www.linkedin.com/
+        description: "科学计算器"
+      - name: Excalidraw
+        url: https://excalidraw-self-tau.vercel.app/
         icon: fab fa-linkedin
-        description: "从书签导入: LinkedIn" 
+        description: "画图绘图" 
