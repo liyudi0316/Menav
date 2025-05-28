@@ -5,20 +5,13 @@ subtitle: 从浏览器导入的书签收藏
 template: bookmarks
 
 categories:
-  - name: Japan
+  - name: Jav资源
     icon: fas fa-folder
     sites:
       - name: Jable
         url: https://jable.tv/
         icon: fab fa-github
         description: "在线Jav"
-  - name: 技术资源
-    icon: fas fa-folder
-    sites:
-      - name: GitHub
-        url: https://github.com/
-        icon: fab fa-github
-        description: "从书签导入: GitHub"
       - name: Stack Overflow
         url: https://stackoverflow.com/
         icon: fab fa-stack-overflow
